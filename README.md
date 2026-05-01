@@ -5,7 +5,7 @@ A full-stack web application that allows teams to manage projects, assign tasks,
 
 ## Live Demo
 
-Live Link: [https://your-frontend-url](https://extraordinary-inspiration-production-0ffd.up.railway.app/)
+Live Link: (https://extraordinary-inspiration-production-0ffd.up.railway.app/)
 
 ---
 
