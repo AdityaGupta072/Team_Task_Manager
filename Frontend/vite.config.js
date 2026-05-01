@@ -7,8 +7,6 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(),tailwindcss()],
   preview: {
-    allowedHosts: [
-      "extraordinary-inspiration-production-ab3c.up.railway.app"
-    ]
+    allowedHosts: true
   }
 })
